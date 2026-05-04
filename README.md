@@ -23,7 +23,7 @@ It focuses on clean UI design, structured layout, and responsive user experience
 HTML5
 CSS3
 Bootstrap
-JavaScript 
+JavaScript CDN
 
 🎨 Features
 
